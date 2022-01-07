@@ -1,0 +1,167 @@
+
+.App {
+  text-align: center;
+}
+.group1085{
+  position: absolute;
+width: 745.91px;
+height: 314.26px;
+left: 314px;
+top: 4468.88px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.g1110{
+  position: absolute;
+width: 95px;
+height: 100px;
+left: 373px;
+top: 4452px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.g1111{
+  position: absolute;
+  width: 142.86px;
+  height: 28px;
+  left: 295px;
+  top: 4524.58px;
+  
+
+}
+.g1109{
+  position: absolute;
+width: 142.86px;
+height: 28px;
+left: 614px;
+top: 4525.14px;
+
+}
+.g1108{
+  position: absolute;
+width: 142.86px;
+height: 28px;
+left: 775px;
+top: 4642.14px;
+
+
+}
+.ten{
+  position: absolute;
+width: 25px;
+height: 36px;
+left: 408.2px;
+top: 4462.6px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+
+/* WDC Blue */
+
+color: #354563;
+}
+.g1107{
+  position: absolute;
+width: 142.86px;
+height: 28px;
+left: 453px;
+top: 4642.14px;
+
+}
+.g1106{
+  position: absolute;
+width: 142.86px;
+height: 28px;
+left: 292px;
+top: 4760.14px;
+}
+.g1045{
+  position: absolute;
+width: 142.86px;
+height: 28px;
+left: 614.42px;
+top: 4768.58px;
+
+}
+.CALENDAR{
+position: absolute;
+width: 1440px;
+height: 1097px;
+left: 0px;
+top: 3969px;
+background: #CEE7F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.group1063{
+  position: absolute;
+width: 1127.27px;
+height: 818.49px;
+left: 122.22px;
+top: 4130.14px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.legend{
+  position: absolute;
+width: 224.24px;
+height: 205.96px;
+left: 1181.99px;
+top: 4773.08px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.WDCText{
+  position: absolute;
+width: 271px;
+height: 54px;
+left: 85.22px;
+top: 4061px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+/* WDC Blue */
+
+color: #354563;
+}
+.rainbow{
+  position: absolute;
+width: 289.26px;
+height: 238.02px;
+left: 1117px;
+top: 4595.14px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
