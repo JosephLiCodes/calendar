@@ -1,0 +1,30 @@
+.calGroup{
+    position: absolute;
+    width: 1440px;
+    height: 1224px;
+    left: 0px;
+    top: 3840px;
+}
+.calText{
+    /* WDC Calendar */
+
+
+position: absolute;
+width: 271px;
+height: 54px;
+left: 85.22px;
+top: 4061px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+/* WDC Blue */
+
+color: #354563;
+
+}
